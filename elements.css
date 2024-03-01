@@ -8,10 +8,14 @@
     color: #b08271;
     font-size: 12px;
 }
-.site-box > a > p {
-    color: var(--darkbrown);
-    font-weight: bold;
+
+
+.postIt{
+    background-color:#e6e485 ;
+    color: blue;
 }
-.site-box > a > span {
-    color: var(--darkbrown);
+
+
+.background{
+    background-image: url('wizard.gif');
 }
