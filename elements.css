@@ -19,3 +19,13 @@
 .background{
     background-image: url('wizard.gif');
 }
+
+.centerFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blackBorder{
+    border: 2px solid black;
+}
