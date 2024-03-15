@@ -145,7 +145,7 @@
 
     // every ~ 20 seconds
     if (
-      idleTime > 10 &&
+      idleTime > 1 &&
       Math.floor(Math.random() * 200) == 0 &&
       idleAnimation == null
     ) {

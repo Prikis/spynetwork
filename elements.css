@@ -18,6 +18,7 @@
 
 .background{
     background-image: url('wizard.gif');
+    text-shadow: -3px 0 1px cyan, 3px 0 1px red;
 }
 
 .centerFlex{
